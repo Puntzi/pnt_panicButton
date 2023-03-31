@@ -1,0 +1,10 @@
+{
+    "name_officer": "Officer: %s",
+    "you_are_not_a_police": "You are not a police!",
+    "alert_sent": "Yout sent an alert!",
+    "title_menu": "Police Panic Button",
+    "delete_alert": "Delete this alert",
+    "accept_alert": "Accept this alert",
+    "officer_alerted": "Officer %s need help!",
+    "accept_or_cancel_alert": "Menu to cancel or accept alerts"
+}
