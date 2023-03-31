@@ -18,6 +18,12 @@ exports['pnt_panicButton']:activateButton() -- This for activate the panic butto
 exports['pnt_panicButton']:openMenu() -- To open the panic button menu
 ```
 
+**IMPORTANT**
+* If you want to test the script alone you need to comment on line 19 this code:
+```
+and not (player.source == xPlayer.source)
+```
+
 ***How to change the locale from my server?***
 * To change the preferred language from English, add the convar to your server.cfg
 ```
