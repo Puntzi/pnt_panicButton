@@ -7,6 +7,10 @@
 * Resmon 0.00ms
 * Easely configurable
 
+**Update 2.0**
+* Now the blip it adds the player, that means the blip will follow the player until you disable it
+* Fix a little bug you can open the menu without being a police 
+
 **Requeriments**
 * ESX
 * ox_lib
