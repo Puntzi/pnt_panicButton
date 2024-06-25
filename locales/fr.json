@@ -1,0 +1,10 @@
+{
+    "name_officer": "Officier : %s",
+    "you_are_not_a_police": "Vous n'êtes pas un policier !",
+    "alert_sent": "Vous avez envoyé une alerte !",
+    "title_menu": "Bouton de Panique Police",
+    "delete_alert": "Supprimer cette alerte",
+    "accept_alert": "Accepter cette alerte",
+    "officer_alerted": "L'officier %s a besoin d'aide !",
+    "accept_or_cancel_alert": "Menu pour annuler ou accepter les alertes"
+}
